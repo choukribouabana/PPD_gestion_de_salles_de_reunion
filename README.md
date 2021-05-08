@@ -1,5 +1,6 @@
 # La structure du projet
 
+## FRONT
 - assets : dossier utilisé pour mettre les documents (images, ...) 
 - components : dossier pour mettre les components.
 - styles : pour mettre les .css
